@@ -10,7 +10,7 @@
 - 💼 **当前动态**: 已获得 **Daocheng Intelligent** offer (IoT 方向)
 - 🛠️ **核心技术栈**: 
   - **Java 生态**: Spring Boot 3, Spring Cloud, Mybatis-Plus, Netty
-  - **中间件/数据库**: Redis, RabbitMQ, MySQL, **InfluxDB** (时序数据库实践者)
+  - **中间件/数据库**: Redis, RocketMQ , MySQL, **InfluxDB** (时序数据库实践者)
   - **正在进化**: 正在从 Java 体系向 **Golang** 生态系统迁移，探索云原生与高并发性能优化
 - 🌐 **基础设施**: 熟悉 Linux 环境，具备内网穿透（SSH Reverse Tunnel）、VPS 部署及 Hexo 静态博客运维经验
 
