@@ -20,7 +20,7 @@
 
 #### 💧 [Campus Water IQ]([https://github.com//campus-water-iq](https://github.com/JingXu-Huan/Campus-Water-IQ))
 *智慧校园水务监控与决策平台*
-- **技术栈**: Spring Cloud Alibaba + InfluxDB + MQTT + Redis
+- **技术栈**: Spring Cloud Alibaba + InfluxDB + RocketMQ + Redis
 - **核心点**: 实现了海量虚拟 IoT 设备的数据模拟与实时上报，针对水务场景下的时序数据进行了存储优化与可视化处理。
 
 #### 🛡️ [System Architecture & Infrastructure](https://github.com/your-username/infra-labs)
