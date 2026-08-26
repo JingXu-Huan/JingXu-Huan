@@ -7,7 +7,6 @@
 ### 🚀 关于我
 
 - 🎓 **教育背景**: 华北水利水电大学 (NCWU) · 软件工程/CS · 大二本科在校生
-- 💼 **当前动态**: 已获得 **Daocheng Intelligent** offer (IoT 方向)
 - 🛠️ **核心技术栈**: 
   - **Java 生态**: `Spring Boot 3`, `Spring Cloud`, `Mybatis-Plus`
   - **中间件/数据库**: `Kafka`，`Redis`, `RocketMQ` , `MySQL`, **`InfluxDB`** (时序数据库实践者)
