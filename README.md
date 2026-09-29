@@ -9,8 +9,9 @@
 - 🎓 **教育背景**: 华北水利水电大学 (NCWU) · 软件工程/CS · 大二本科在校生
 - 🛠️ **核心技术栈**: 
   - **Java 生态**: `Spring Boot 3`, `Spring Cloud`, `Mybatis-Plus`
+  - **go 生态**: 正在学习 `chora`,`Gin` ,`ORM` 等Go语言的生态
   - **中间件/数据库**: `Kafka`，`Redis`, `RocketMQ` , `MySQL`, **`InfluxDB`** (时序数据库实践者)
-  - **正在进化**: 学习`Vue`和算法中，目标全栈工程师
+  - **正在进化**: 学习`Agent`和算法中，目标全栈工程师/AI应用开发工程师
 - 🌐 **基础设施**: 熟悉 Linux 环境，具备内网穿透（SSH Reverse Tunnel）、VPS 部署及 Hexo 静态博客运维经验
 
 ---
